@@ -27,7 +27,7 @@ createAutoComplete({
             }
         
            return response.data.Search;
-        };
+        }
         
 
     })
